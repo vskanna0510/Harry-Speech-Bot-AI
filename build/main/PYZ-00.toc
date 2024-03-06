@@ -1,0 +1,3142 @@
+('C:\\Users\\Sugumaran\\PycharmProject\\Jarvis main\\build\\main\\PYZ-00.pyz',
+ [('os', 'C:\\Users\\Sugumaran\\lib\\os.py', 'PYMODULE'),
+  ('ntpath', 'C:\\Users\\Sugumaran\\lib\\ntpath.py', 'PYMODULE'),
+  ('string', 'C:\\Users\\Sugumaran\\lib\\string.py', 'PYMODULE'),
+  ('genericpath', 'C:\\Users\\Sugumaran\\lib\\genericpath.py', 'PYMODULE'),
+  ('posixpath', 'C:\\Users\\Sugumaran\\lib\\posixpath.py', 'PYMODULE'),
+  ('stat', 'C:\\Users\\Sugumaran\\lib\\stat.py', 'PYMODULE'),
+  ('ssl', 'C:\\Users\\Sugumaran\\lib\\ssl.py', 'PYMODULE'),
+  ('calendar', 'C:\\Users\\Sugumaran\\lib\\calendar.py', 'PYMODULE'),
+  ('argparse', 'C:\\Users\\Sugumaran\\lib\\argparse.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Users\\Sugumaran\\lib\\textwrap.py', 'PYMODULE'),
+  ('shutil', 'C:\\Users\\Sugumaran\\lib\\shutil.py', 'PYMODULE'),
+  ('zipfile', 'C:\\Users\\Sugumaran\\lib\\zipfile.py', 'PYMODULE'),
+  ('py_compile', 'C:\\Users\\Sugumaran\\lib\\py_compile.py', 'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('tempfile', 'C:\\Users\\Sugumaran\\lib\\tempfile.py', 'PYMODULE'),
+  ('random', 'C:\\Users\\Sugumaran\\lib\\random.py', 'PYMODULE'),
+  ('statistics', 'C:\\Users\\Sugumaran\\lib\\statistics.py', 'PYMODULE'),
+  ('decimal', 'C:\\Users\\Sugumaran\\lib\\decimal.py', 'PYMODULE'),
+  ('_pydecimal', 'C:\\Users\\Sugumaran\\lib\\_pydecimal.py', 'PYMODULE'),
+  ('contextvars', 'C:\\Users\\Sugumaran\\lib\\contextvars.py', 'PYMODULE'),
+  ('fractions', 'C:\\Users\\Sugumaran\\lib\\fractions.py', 'PYMODULE'),
+  ('numbers', 'C:\\Users\\Sugumaran\\lib\\numbers.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Users\\Sugumaran\\lib\\hashlib.py', 'PYMODULE'),
+  ('logging', 'C:\\Users\\Sugumaran\\lib\\logging\\__init__.py', 'PYMODULE'),
+  ('pickle', 'C:\\Users\\Sugumaran\\lib\\pickle.py', 'PYMODULE'),
+  ('pprint', 'C:\\Users\\Sugumaran\\lib\\pprint.py', 'PYMODULE'),
+  ('doctest', 'C:\\Users\\Sugumaran\\lib\\doctest.py', 'PYMODULE'),
+  ('unittest', 'C:\\Users\\Sugumaran\\lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Sugumaran\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio', 'C:\\Users\\Sugumaran\\lib\\asyncio\\__init__.py', 'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log', 'C:\\Users\\Sugumaran\\lib\\asyncio\\log.py', 'PYMODULE'),
+  ('signal', 'C:\\Users\\Sugumaran\\lib\\signal.py', 'PYMODULE'),
+  ('selectors', 'C:\\Users\\Sugumaran\\lib\\selectors.py', 'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Sugumaran\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Sugumaran\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Users\\Sugumaran\\lib\\queue.py', 'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Sugumaran\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy', 'C:\\Users\\Sugumaran\\lib\\runpy.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\Users\\Sugumaran\\lib\\pkgutil.py', 'PYMODULE'),
+  ('zipimport', 'C:\\Users\\Sugumaran\\lib\\zipimport.py', 'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes', 'C:\\Users\\Sugumaran\\lib\\ctypes\\__init__.py', 'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Sugumaran\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets', 'C:\\Users\\Sugumaran\\lib\\secrets.py', 'PYMODULE'),
+  ('hmac', 'C:\\Users\\Sugumaran\\lib\\hmac.py', 'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client', 'C:\\Users\\Sugumaran\\lib\\xmlrpc\\client.py', 'PYMODULE'),
+  ('xmlrpc', 'C:\\Users\\Sugumaran\\lib\\xmlrpc\\__init__.py', 'PYMODULE'),
+  ('gzip', 'C:\\Users\\Sugumaran\\lib\\gzip.py', 'PYMODULE'),
+  ('_compression', 'C:\\Users\\Sugumaran\\lib\\_compression.py', 'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Sugumaran\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Sugumaran\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml', 'C:\\Users\\Sugumaran\\lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Sugumaran\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Sugumaran\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Sugumaran\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass', 'C:\\Users\\Sugumaran\\lib\\getpass.py', 'PYMODULE'),
+  ('nturl2path', 'C:\\Users\\Sugumaran\\lib\\nturl2path.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Users\\Sugumaran\\lib\\ftplib.py', 'PYMODULE'),
+  ('netrc', 'C:\\Users\\Sugumaran\\lib\\netrc.py', 'PYMODULE'),
+  ('shlex', 'C:\\Users\\Sugumaran\\lib\\shlex.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Users\\Sugumaran\\lib\\mimetypes.py', 'PYMODULE'),
+  ('getopt', 'C:\\Users\\Sugumaran\\lib\\getopt.py', 'PYMODULE'),
+  ('email.utils', 'C:\\Users\\Sugumaran\\lib\\email\\utils.py', 'PYMODULE'),
+  ('email.charset', 'C:\\Users\\Sugumaran\\lib\\email\\charset.py', 'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Sugumaran\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri', 'C:\\Users\\Sugumaran\\lib\\quopri.py', 'PYMODULE'),
+  ('email.errors', 'C:\\Users\\Sugumaran\\lib\\email\\errors.py', 'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Sugumaran\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Sugumaran\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Sugumaran\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Sugumaran\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http', 'C:\\Users\\Sugumaran\\lib\\http\\__init__.py', 'PYMODULE'),
+  ('urllib', 'C:\\Users\\Sugumaran\\lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Sugumaran\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error', 'C:\\Users\\Sugumaran\\lib\\urllib\\error.py', 'PYMODULE'),
+  ('email', 'C:\\Users\\Sugumaran\\lib\\email\\__init__.py', 'PYMODULE'),
+  ('email.parser', 'C:\\Users\\Sugumaran\\lib\\email\\parser.py', 'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Sugumaran\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Sugumaran\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message', 'C:\\Users\\Sugumaran\\lib\\email\\message.py', 'PYMODULE'),
+  ('email.policy', 'C:\\Users\\Sugumaran\\lib\\email\\policy.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Sugumaran\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Sugumaran\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Sugumaran\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Sugumaran\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Sugumaran\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu', 'C:\\Users\\Sugumaran\\lib\\uu.py', 'PYMODULE'),
+  ('optparse', 'C:\\Users\\Sugumaran\\lib\\optparse.py', 'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Sugumaran\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header', 'C:\\Users\\Sugumaran\\lib\\email\\header.py', 'PYMODULE'),
+  ('xml.sax', 'C:\\Users\\Sugumaran\\lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Sugumaran\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Sugumaran\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Sugumaran\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse', 'C:\\Users\\Sugumaran\\lib\\urllib\\parse.py', 'PYMODULE'),
+  ('http.client', 'C:\\Users\\Sugumaran\\lib\\http\\client.py', 'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Sugumaran\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Sugumaran\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Sugumaran\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing', 'C:\\Users\\Sugumaran\\lib\\typing.py', 'PYMODULE'),
+  ('asyncio.tasks', 'C:\\Users\\Sugumaran\\lib\\asyncio\\tasks.py', 'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks', 'C:\\Users\\Sugumaran\\lib\\asyncio\\locks.py', 'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Sugumaran\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Sugumaran\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main', 'C:\\Users\\Sugumaran\\lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Sugumaran\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Sugumaran\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Sugumaran\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case', 'C:\\Users\\Sugumaran\\lib\\unittest\\case.py', 'PYMODULE'),
+  ('unittest._log', 'C:\\Users\\Sugumaran\\lib\\unittest\\_log.py', 'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Sugumaran\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util', 'C:\\Users\\Sugumaran\\lib\\unittest\\util.py', 'PYMODULE'),
+  ('pdb', 'C:\\Users\\Sugumaran\\lib\\pdb.py', 'PYMODULE'),
+  ('pydoc', 'C:\\Users\\Sugumaran\\lib\\pydoc.py', 'PYMODULE'),
+  ('http.server', 'C:\\Users\\Sugumaran\\lib\\http\\server.py', 'PYMODULE'),
+  ('socketserver', 'C:\\Users\\Sugumaran\\lib\\socketserver.py', 'PYMODULE'),
+  ('html', 'C:\\Users\\Sugumaran\\lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities', 'C:\\Users\\Sugumaran\\lib\\html\\entities.py', 'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Sugumaran\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Sugumaran\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty', 'C:\\Users\\Sugumaran\\lib\\tty.py', 'PYMODULE'),
+  ('sysconfig', 'C:\\Users\\Sugumaran\\lib\\sysconfig.py', 'PYMODULE'),
+  ('_aix_support', 'C:\\Users\\Sugumaran\\lib\\_aix_support.py', 'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Sugumaran\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support', 'C:\\Users\\Sugumaran\\lib\\_osx_support.py', 'PYMODULE'),
+  ('distutils.log', 'C:\\Users\\Sugumaran\\lib\\distutils\\log.py', 'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform', 'C:\\Users\\Sugumaran\\lib\\platform.py', 'PYMODULE'),
+  ('plistlib', 'C:\\Users\\Sugumaran\\lib\\plistlib.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Users\\Sugumaran\\lib\\tokenize.py', 'PYMODULE'),
+  ('token', 'C:\\Users\\Sugumaran\\lib\\token.py', 'PYMODULE'),
+  ('glob', 'C:\\Users\\Sugumaran\\lib\\glob.py', 'PYMODULE'),
+  ('code', 'C:\\Users\\Sugumaran\\lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Users\\Sugumaran\\lib\\codeop.py', 'PYMODULE'),
+  ('dis', 'C:\\Users\\Sugumaran\\lib\\dis.py', 'PYMODULE'),
+  ('opcode', 'C:\\Users\\Sugumaran\\lib\\opcode.py', 'PYMODULE'),
+  ('bdb', 'C:\\Users\\Sugumaran\\lib\\bdb.py', 'PYMODULE'),
+  ('cmd', 'C:\\Users\\Sugumaran\\lib\\cmd.py', 'PYMODULE'),
+  ('inspect', 'C:\\Users\\Sugumaran\\lib\\inspect.py', 'PYMODULE'),
+  ('ast', 'C:\\Users\\Sugumaran\\lib\\ast.py', 'PYMODULE'),
+  ('difflib', 'C:\\Users\\Sugumaran\\lib\\difflib.py', 'PYMODULE'),
+  ('__future__', 'C:\\Users\\Sugumaran\\lib\\__future__.py', 'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Sugumaran\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect', 'C:\\Users\\Sugumaran\\lib\\bisect.py', 'PYMODULE'),
+  ('pathlib', 'C:\\Users\\Sugumaran\\lib\\pathlib.py', 'PYMODULE'),
+  ('importlib.abc', 'C:\\Users\\Sugumaran\\lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser', 'C:\\Users\\Sugumaran\\lib\\configparser.py', 'PYMODULE'),
+  ('csv', 'C:\\Users\\Sugumaran\\lib\\csv.py', 'PYMODULE'),
+  ('contextlib', 'C:\\Users\\Sugumaran\\lib\\contextlib.py', 'PYMODULE'),
+  ('threading', 'C:\\Users\\Sugumaran\\lib\\threading.py', 'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Sugumaran\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct', 'C:\\Users\\Sugumaran\\lib\\struct.py', 'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile', 'C:\\Users\\Sugumaran\\lib\\tarfile.py', 'PYMODULE'),
+  ('lzma', 'C:\\Users\\Sugumaran\\lib\\lzma.py', 'PYMODULE'),
+  ('bz2', 'C:\\Users\\Sugumaran\\lib\\bz2.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\Users\\Sugumaran\\lib\\fnmatch.py', 'PYMODULE'),
+  ('copy', 'C:\\Users\\Sugumaran\\lib\\copy.py', 'PYMODULE'),
+  ('gettext', 'C:\\Users\\Sugumaran\\lib\\gettext.py', 'PYMODULE'),
+  ('_strptime', 'C:\\Users\\Sugumaran\\lib\\_strptime.py', 'PYMODULE'),
+  ('base64', 'C:\\Users\\Sugumaran\\lib\\base64.py', 'PYMODULE'),
+  ('socket', 'C:\\Users\\Sugumaran\\lib\\socket.py', 'PYMODULE'),
+  ('win32com',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid', 'C:\\Users\\Sugumaran\\lib\\uuid.py', 'PYMODULE'),
+  ('packaging._manylinux',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp', 'C:\\Users\\Sugumaran\\lib\\imp.py', 'PYMODULE'),
+  ('_py_abc', 'C:\\Users\\Sugumaran\\lib\\_py_abc.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\Users\\Sugumaran\\lib\\tracemalloc.py', 'PYMODULE'),
+  ('stringprep', 'C:\\Users\\Sugumaran\\lib\\stringprep.py', 'PYMODULE'),
+  ('pandas',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('json', 'C:\\Users\\Sugumaran\\lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.encoder', 'C:\\Users\\Sugumaran\\lib\\json\\encoder.py', 'PYMODULE'),
+  ('json.decoder', 'C:\\Users\\Sugumaran\\lib\\json\\decoder.py', 'PYMODULE'),
+  ('json.scanner', 'C:\\Users\\Sugumaran\\lib\\json\\scanner.py', 'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.methods',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\methods.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing._random',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_testing\\_random.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.indexers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Sugumaran\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Sugumaran\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Sugumaran\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Sugumaran\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Sugumaran\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Sugumaran\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Sugumaran\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom', 'C:\\Users\\Sugumaran\\lib\\xml\\dom\\__init__.py', 'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Sugumaran\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Sugumaran\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Sugumaran\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Sugumaran\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Sugumaran\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Sugumaran\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('sqlite3', 'C:\\Users\\Sugumaran\\lib\\sqlite3\\__init__.py', 'PYMODULE'),
+  ('sqlite3.dump', 'C:\\Users\\Sugumaran\\lib\\sqlite3\\dump.py', 'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\Sugumaran\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlwt',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_xlwt.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('dataclasses', 'C:\\Users\\Sugumaran\\lib\\dataclasses.py', 'PYMODULE'),
+  ('pandas.core.indexing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.aggregation',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\aggregation.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.describe',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexers.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser', 'C:\\Users\\Sugumaran\\lib\\html\\parser.py', 'PYMODULE'),
+  ('_markupbase', 'C:\\Users\\Sugumaran\\lib\\_markupbase.py', 'PYMODULE'),
+  ('pandas.util._print_versions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.dtype',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\dtype.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('webbrowser', 'C:\\Users\\Sugumaran\\lib\\webbrowser.py', 'PYMODULE'),
+  ('pyttsx3',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.sapi5',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\drivers\\sapi5.py',
+   'PYMODULE'),
+  ('pyttsx3.voice',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\voice.py',
+   'PYMODULE'),
+  ('comtypes.gen.SpeechLib',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\gen\\SpeechLib.py',
+   'PYMODULE'),
+  ('comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\gen\\_C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.py',
+   'PYMODULE'),
+  ('comtypes.typeinfo',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\typeinfo.py',
+   'PYMODULE'),
+  ('comtypes.automation',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\automation.py',
+   'PYMODULE'),
+  ('comtypes.safearray',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\safearray.py',
+   'PYMODULE'),
+  ('comtypes.client.dynamic',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\client\\dynamic.py',
+   'PYMODULE'),
+  ('comtypes.client.lazybind',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\client\\lazybind.py',
+   'PYMODULE'),
+  ('comtypes._safearray',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\_safearray.py',
+   'PYMODULE'),
+  ('comtypes.npsupport',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\npsupport.py',
+   'PYMODULE'),
+  ('comtypes.patcher',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\patcher.py',
+   'PYMODULE'),
+  ('comtypes.hresult',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\hresult.py',
+   'PYMODULE'),
+  ('comtypes.GUID',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\GUID.py',
+   'PYMODULE'),
+  ('comtypes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\__init__.py',
+   'PYMODULE'),
+  ('comtypes._meta',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\_meta.py',
+   'PYMODULE'),
+  ('comtypes._comobject',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\_comobject.py',
+   'PYMODULE'),
+  ('comtypes.errorinfo',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\errorinfo.py',
+   'PYMODULE'),
+  ('comtypes.server',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\server\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\tools\\codegenerator.py',
+   'PYMODULE'),
+  ('comtypes.tools.tlbparser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\tools\\tlbparser.py',
+   'PYMODULE'),
+  ('comtypes.persist',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\persist.py',
+   'PYMODULE'),
+  ('comtypes.client._code_cache',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\client\\_code_cache.py',
+   'PYMODULE'),
+  ('comtypes.client._generate',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\client\\_generate.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\tools\\typedesc.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc_base',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\tools\\typedesc_base.py',
+   'PYMODULE'),
+  ('comtypes.tools',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\tools\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.messageloop',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\messageloop.py',
+   'PYMODULE'),
+  ('comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\gen\\_00020430_0000_0000_C000_000000000046_0_2_0.py',
+   'PYMODULE'),
+  ('comtypes.gen',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\gen\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\client\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client._events',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\client\\_events.py',
+   'PYMODULE'),
+  ('comtypes.connectionpoints',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\comtypes\\connectionpoints.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.dummy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\drivers\\dummy.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\drivers\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.six',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\six.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('pywhatkit',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\__init__.py',
+   'PYMODULE'),
+  ('pywhatkit.wwd',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\wwd.py',
+   'PYMODULE'),
+  ('pywhatkit.sc',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\sc.py',
+   'PYMODULE'),
+  ('pywhatkit.main',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\main.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys', 'C:\\Users\\Sugumaran\\lib\\colorsys.py', 'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('pywhatkit.exceptions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\exceptions.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies', 'C:\\Users\\Sugumaran\\lib\\http\\cookies.py', 'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress', 'C:\\Users\\Sugumaran\\lib\\ipaddress.py', 'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Sugumaran\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.md',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\md.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('wikipedia',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\wikipedia\\__init__.py',
+   'PYMODULE'),
+  ('wikipedia.exceptions',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\wikipedia\\exceptions.py',
+   'PYMODULE'),
+  ('wikipedia.wikipedia',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\wikipedia\\wikipedia.py',
+   'PYMODULE'),
+  ('wikipedia.util',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\wikipedia\\util.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pyrect',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.ttk', 'C:\\Users\\Sugumaran\\lib\\tkinter\\ttk.py', 'PYMODULE'),
+  ('tkinter', 'C:\\Users\\Sugumaran\\lib\\tkinter\\__init__.py', 'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Sugumaran\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('ctypes.util', 'C:\\Users\\Sugumaran\\lib\\ctypes\\util.py', 'PYMODULE'),
+  ('ctypes._aix', 'C:\\Users\\Sugumaran\\lib\\ctypes\\_aix.py', 'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Sugumaran\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Sugumaran\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Sugumaran\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Sugumaran\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pytweening',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('pywhatkit.mail',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\mail.py',
+   'PYMODULE'),
+  ('email.mime.text',
+   'C:\\Users\\Sugumaran\\lib\\email\\mime\\text.py',
+   'PYMODULE'),
+  ('email.mime',
+   'C:\\Users\\Sugumaran\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'C:\\Users\\Sugumaran\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'C:\\Users\\Sugumaran\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('smtplib', 'C:\\Users\\Sugumaran\\lib\\smtplib.py', 'PYMODULE'),
+  ('pywhatkit.history',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\history.py',
+   'PYMODULE'),
+  ('pywhatkit.chr_to_handwriting',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\chr_to_handwriting.py',
+   'PYMODULE'),
+  ('pywhatkit.ascii_art',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\ascii_art.py',
+   'PYMODULE'),
+  ('pywhatkit.help',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pywhatkit\\help.py',
+   'PYMODULE'),
+  ('subprocess', 'C:\\Users\\Sugumaran\\lib\\subprocess.py', 'PYMODULE'),
+  ('datetime', 'C:\\Users\\Sugumaran\\lib\\datetime.py', 'PYMODULE'),
+  ('speech_recognition',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\speech_recognition\\__init__.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\Sugumaran\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('pyaudio',
+   'c:\\users\\sugumaran\\pycharmproject\\jarvis '
+   'main\\venv\\lib\\site-packages\\pyaudio.py',
+   'PYMODULE'),
+  ('aifc', 'C:\\Users\\Sugumaran\\lib\\aifc.py', 'PYMODULE'),
+  ('chunk', 'C:\\Users\\Sugumaran\\lib\\chunk.py', 'PYMODULE'),
+  ('wave', 'C:\\Users\\Sugumaran\\lib\\wave.py', 'PYMODULE')])
